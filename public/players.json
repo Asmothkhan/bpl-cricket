@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Mohammad Naim",
+    "country": "Bangladesh",
+    "condition": "Batter",
+    "battingType": "Left-hand Bat",
+    "bowlingType": "Right-arm Off Break",
+    "price": 11000000,
+    "rating": 9.5,
+    "image": "https://i.ibb.co.com/Kp7gSX0J/images.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Towhid Hridoy",
+    "country": "Bangladesh",
+    "condition": "Batter",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Off Break",
+    "price": 9200000,
+    "rating": 9.3,
+    "image": "https://i.ibb.co.com/Kp7gSX0J/images.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Litton Das",
+    "country": "Bangladesh",
+    "condition": "Wicketkeeper Batter",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Medium",
+    "price": 7000000,
+    "rating": 9.2,
+    "image": "https://i.ibb.co.com/Kp7gSX0J/images.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tanzim Hasan Sakib",
+    "country": "Bangladesh",
+    "condition": "Bowler",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Medium Fast",
+    "price": 6600000,
+    "rating": 8.8,
+    "image": "https://i.ibb.co.com/Kp7gSX0J/images.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mohammad Saifuddin",
+    "country": "Bangladesh",
+    "condition": "All-rounder",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Medium Fast",
+    "price": 6800000,
+    "rating": 8.7,
+    "image": "https://i.ibb.co.com/Kp7gSX0J/images.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Shamim Hossain",
+    "country": "Bangladesh",
+    "condition": "Batter",
+    "battingType": "Left-hand Bat",
+    "bowlingType": "Right-arm Off Break",
+    "price": 5600000,
+    "rating": 8.4,
+    "image": "https://i.ibb.co.com/Kp7gSX0J/images.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Nahid Rana",
+    "country": "Bangladesh",
+    "condition": "Bowler",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Fast",
+    "price": 5600000,
+    "rating": 8.6,
+    "image": "https://i.ibb.co.com/Kp7gSX0J/images.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Shoriful Islam",
+    "country": "Bangladesh",
+    "condition": "Bowler",
+    "battingType": "Left-hand Bat",
+    "bowlingType": "Left-arm Medium Fast",
+    "price": 4400000,
+    "rating": 8.5,
+    "image": "https://i.ibb.co.com/Kp7gSX0J/images.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "condition": "All-rounder",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Off Break",
+    "price": 3500000,
+    "rating": 8.2,
+    "image": "https://i.ibb.co.com/Kp7gSX0J/images.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "condition": "Wicketkeeper Batter",
+    "battingType": "Right-hand Bat",
+    "bowlingType": "Right-arm Off Break",
+    "price": 3500000,
+    "rating": 8.7,
+    "image": "https://i.ibb.co.com/Kp7gSX0J/images.jpg"
+  }
+]
